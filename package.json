@@ -1,0 +1,11 @@
+{
+  "name": "processos-app",
+  "version": "1.0.0",
+  "description": "Aplicação para guardar processos em base de dados local.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquim T. Duarte (S7R1D3R)",
+  "license": "ISC"
+}
